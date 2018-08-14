@@ -1,0 +1,11 @@
+C
+gcc -o fileName fileName.c
+./fileName
+
+
+C++
+g++ --std=c++11 -o fileName fileName.cpp
+./fileName
+
+
+
